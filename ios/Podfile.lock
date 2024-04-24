@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - MyFatoorah (2.0.143)
+  - myfatoorah_flutter (0.0.1):
+    - Flutter
+    - MyFatoorah (~> 2.0.141)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - myfatoorah_flutter (from `.symlinks/plugins/myfatoorah_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - MyFatoorah
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  myfatoorah_flutter:
+    :path: ".symlinks/plugins/myfatoorah_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  MyFatoorah: 9a568e19fde7fe59c9d581bc14c1f9596e2c3204
+  myfatoorah_flutter: f22cfd019f363b81a76d2d59ac637131cdeb1f89
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2
